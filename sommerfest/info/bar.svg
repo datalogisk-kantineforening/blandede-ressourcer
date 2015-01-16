@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="1488.189"
+   id="svg4446"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bar.svg">
+  <defs
+     id="defs4448">
+    <linearGradient
+       id="linearGradient4458">
+      <stop
+         id="stop4466"
+         offset="0"
+         style="stop-color:#e4f124;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e1b920;stop-opacity:1;"
+         offset="0.02038336"
+         id="stop4486" />
+      <stop
+         id="stop4488"
+         offset="0.05490659"
+         style="stop-color:#0f00fc;stop-opacity:1;" />
+      <stop
+         style="stop-color:#85037e;stop-opacity:1;"
+         offset="0.10556673"
+         id="stop4490" />
+      <stop
+         style="stop-color:#e02520;stop-opacity:1;"
+         offset="0.16644579"
+         id="stop4484" />
+      <stop
+         style="stop-color:#e21cdb;stop-opacity:1;"
+         offset="0.32687178"
+         id="stop4482" />
+      <stop
+         style="stop-color:#1dd7de;stop-opacity:1;"
+         offset="0.63325197"
+         id="stop4480" />
+      <stop
+         style="stop-color:#3be700;stop-opacity:1;"
+         offset="0.8825587"
+         id="stop4478" />
+      <stop
+         style="stop-color:#a0ff00;stop-opacity:1;"
+         offset="1"
+         id="stop4462" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4458"
+       id="linearGradient4464"
+       x1="192.56929"
+       y1="-244.9467"
+       x2="853.04816"
+       y2="-241.5683"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4458"
+       id="linearGradient4496"
+       gradientUnits="userSpaceOnUse"
+       x1="170.56909"
+       y1="-248.3251"
+       x2="1503.4452"
+       y2="-244.9467" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4458"
+       id="linearGradient4520"
+       x1="-173.98804"
+       y1="-67.580261"
+       x2="829.39929"
+       y2="-59.134235"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59199471"
+     inkscape:cx="226.34733"
+     inkscape:cy="744.09448"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4451">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,435.82679)">
+    <path
+       style="fill:none;stroke:none;stroke-width:2.32863211999999997px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -153.05327,-11.311969 C 714.95007,-221.79696 1146.3054,245.94742 1146.3054,245.94742"
+       id="path4498"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:45.55635834px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4520);fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+       id="text4507"
+       sodipodi:linespacing="125%"
+       transform="translate(275.3403,-136.56929)"><textPath
+         xlink:href="#path4498"
+         id="textPath4511"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:url(#linearGradient4520);fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold">SOMMERBAR</textPath></text>
+    <text
+       sodipodi:linespacing="250%"
+       id="text3084"
+       y="-53.336796"
+       x="123.73857"
+       style="font-size:52.35633087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan3092"
+         y="-53.336796"
+         x="123.73857"
+         sodipodi:role="line">Grøn Tuborg</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="40.010181"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3105">Ale no. 16</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="133.35716"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3107">Somersby Apple</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="226.70415"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3929">Somersby Pear</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="320.05112"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3931">GT</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="413.39807"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3933">Asti</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="506.74509"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3935">Hvidvin</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="600.09204"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3937">Rødvin</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="693.43903"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3939">Mad på fad (grøn)</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="786.78601"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3941">Mad på fad (orange)</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="880.133"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3109">Underberg</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="973.47998"
+         x="123.73857"
+         sodipodi:role="line"
+         id="tspan3103" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:52.35633087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+       x="607.17761"
+       y="-53.336796"
+       id="text3943"
+       sodipodi:linespacing="250%"><tspan
+         id="tspan3965"
+         sodipodi:role="line"
+         x="607.17761"
+         y="-53.336796"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold">Fad</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="40.010181"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4034">Fad</tspan><tspan
+         id="tspan3967"
+         sodipodi:role="line"
+         x="607.17761"
+         y="133.35716"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold">Dåse</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="226.70415"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4036">Dåse</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="320.05112"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4038">Flaske</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="413.39807"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4042">Flaske</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="506.74509"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4044">Flaske</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="600.09204"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4046">Flaske</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="693.43903"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4048">Fad</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="786.78601"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4050">Fad</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="880.133"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4052">Flaske</tspan><tspan
+         sodipodi:role="line"
+         x="607.17761"
+         y="973.47998"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan4040" /></text>
+    <text
+       sodipodi:linespacing="250%"
+       id="text4054"
+       y="-53.336796"
+       x="803.69763"
+       style="font-size:52.35633087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         id="tspan4078"
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="-53.336796"
+         x="803.69763"
+         sodipodi:role="line">20 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="40.010181"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4157">20 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="133.35716"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4159">17 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="226.70413"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4161">17 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="320.05112"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4163">12 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="413.3981"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4165">60 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="506.74506"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4167">70 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="600.09204"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4169">70 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="693.43903"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4171">20 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="786.78601"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4173">20 kr.</tspan><tspan
+         style="font-size:37.33879089px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:250%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         y="880.133"
+         x="803.69763"
+         sodipodi:role="line"
+         id="tspan4175">10 kr.</tspan></text>
+  </g>
+</svg>
