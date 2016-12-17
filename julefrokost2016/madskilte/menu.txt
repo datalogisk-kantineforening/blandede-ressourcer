@@ -1,0 +1,67 @@
+Flæskesteg
+
+Pork
+
+Sprængt and
+
+Duck
+
+Langtidsstegt lammekølle
+
+Lamb
+
+Oksekødswraps
+
+Beef wraps
+
+Lakseruller
+(indeholder ost og creme fraiche)
+
+Salmon rolls
+(contains cheese and creme fraiche)
+
+Brune kartofler
+
+Sugar-browned potatoes
+
+Ovnbagte rodfrugter
+
+Root vegetables
+
+Vegetartærter
+(indeholder mælk og æg)
+
+Tærter med bacon
+(indeholder mælk og æg)
+
+Vegetarian pies
+(contains milk and eggs)
+
+Pies with bacon
+(contains milk and eggs)
+
+Rødkål-appelsin-salat
+(indeholder ost)
+
+Red cabbage orange salad
+(contains cheese)
+
+Rødkål-appelsin-salat
+(uden ost)
+
+Red cabbage orange salad
+(without cheese)
+
+Stuvet grønkål
+(indeholder mælk)
+
+Green cabbage
+(contains milk)
+
+Spidskålssalat
+
+Pointed cabbage
+
+Bønnesalat
+
+Bean salad
